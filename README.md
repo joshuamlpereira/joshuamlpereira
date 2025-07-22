@@ -7,7 +7,6 @@
 
 - 📝 I regularly write articles on whatever i'm working on at the moment.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
